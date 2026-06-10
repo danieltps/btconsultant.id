@@ -1,0 +1,86 @@
+{
+  "Metadata": {
+    "title": "BTC Tax Consultant — Konsultan Pajak Bersertifikat Brevet C | PT Bintang Konsultama Prima",
+    "description": "BTC Tax Consultant (PT Bintang Konsultama Prima) membantu individu dan badan usaha memenuhi seluruh kewajiban perpajakan, didukung pengalaman profesional lebih dari 20 tahun. Konsultan bersertifikat Brevet C berizin dari Direktorat Jenderal Pajak, Kementerian Keuangan.",
+    "ogTitle": "BTC Tax Consultant — Konsultan Pajak Bersertifikat Brevet C",
+    "ogDescription": "Layanan konsultasi pajak profesional yang didukung pengalaman lebih dari 20 tahun."
+  },
+  "Nav": {
+    "services": "Layanan",
+    "consultants": "Konsultan",
+    "clients": "Klien",
+    "contact": "Kontak",
+    "cta": "Hubungi Kami"
+  },
+  "Hero": {
+    "badge": "Konsultan Pajak Brevet C Indonesia",
+    "headingLine": "Urusan Pajak Anda,",
+    "headingAccent": "Ditangani dengan Tepat.",
+    "sub": "BTC Tax Consultant (PT Bintang Konsultama Prima) membantu individu dan badan usaha memenuhi seluruh kewajiban perpajakan di Indonesia",
+    "ctaPrimary": "Konsultasi Sekarang",
+    "ctaSecondary": "Lihat Layanan",
+    "stats": {
+      "experience": "Tahun pengalaman",
+      "certification": "Sertifikasi konsultan pajak",
+      "association": "Anggota asosiasi",
+      "consultants": "Konsultan ahli"
+    }
+  },
+  "Services": {
+    "label": "Layanan Kami",
+    "title": "Solusi Pajak Menyeluruh",
+    "sub": "Administrasi perpajakan dan pendampingan hukum yang komprehensif untuk individu dan badan usaha.",
+    "items": {
+      "01": "Administrasi Perpajakan",
+      "02": "Penyusunan dan Pelaporan SPT Masa dan Tahunan",
+      "03": "Pendampingan Pemeriksaan dan Keberatan Pajak",
+      "04": "Kuasa Hukum Pengadilan Pajak",
+      "05": "Penyusunan Laporan Keuangan"
+    }
+  },
+  "Consultants": {
+    "label": "Konsultan Kami",
+    "title": "Tim Kami",
+    "sub": "Profesional berizin dengan keahlian lintas bidang perpajakan, hukum, akuntansi, bisnis, manajemen, dan akademik.",
+    "people": {
+      "bg": {
+        "role": "Co-Founder & Managing Partner",
+        "bio": "Konsultan pajak bersertifikat Brevet C berizin dari Direktorat Jenderal Pajak, Kementerian Keuangan. Dosen di perguruan tinggi. Anggota aktif Ikatan Konsultan Pajak Indonesia (IKPI) dan Ikatan Akuntan Indonesia (IAI)."
+      },
+      "ts": {
+        "role": "Co-Founder & Senior Partner",
+        "bio": "Konsultan pajak bersertifikat Brevet C berizin dari Direktorat Jenderal Pajak, Kementerian Keuangan. Advokat dan konsultan hukum terdaftar. Dosen di perguruan tinggi. Anggota aktif Ikatan Konsultan Pajak Indonesia (IKPI) dan Perhimpunan Advokat Indonesia (PERADI)."
+      }
+    }
+  },
+  "Clients": {
+    "label": "Klien Kami",
+    "title": "Dipercaya di Berbagai Industri",
+    "desc": "Kami telah membantu berbagai perusahaan, mulai dari entitas terbuka hingga perusahaan di berbagai sektor di seluruh Indonesia.",
+    "industries": {
+      "publiclyListed": "Perusahaan Terbuka",
+      "energy": "Energi",
+      "infrastructure": "Infrastruktur",
+      "manufacturing": "Manufaktur",
+      "propertyDevelopment": "Pengembangan Properti",
+      "interior": "Interior",
+      "lifestyle": "Gaya Hidup"
+    }
+  },
+  "Contact": {
+    "label": "Kontak",
+    "title": "Hubungi Kami",
+    "sub": "Hubungi kami melalui telepon, email, atau kunjungi kantor kami (dengan perjanjian terlebih dahulu).",
+    "office": "Kantor",
+    "email": "Email",
+    "phone": "Telepon",
+    "about": "BTC Tax Consultant (PT Bintang Konsultama Prima) adalah konsultan pajak yang dimiliki dan dikelola oleh Berelli Ginting dan Timbang Siahaan, konsultan pajak bersertifikat Brevet C. Silakan kirim email atau pesan WhatsApp untuk konsultasi dan informasi lebih lanjut."
+  },
+  "Footer": {
+    "rights": "Hak Cipta Dilindungi"
+  },
+  "LanguageToggle": {
+    "id": "Bahasa Indonesia",
+    "en": "English"
+  }
+}

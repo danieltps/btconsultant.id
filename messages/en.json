@@ -1,0 +1,86 @@
+{
+  "Metadata": {
+    "title": "BTC Tax Consultant — Certified Brevet C | PT Bintang Konsultama Prima",
+    "description": "BTC Tax Consultant (PT Bintang Konsultama Prima) assists individuals and businesses in fulfilling all tax obligations, backed by over 20 years of professional experience. Certified Brevet C consultants licensed by the Director General of Taxes, Ministry of Finance.",
+    "ogTitle": "BTC Tax Consultant — Certified Brevet C Tax Consultants",
+    "ogDescription": "Professional tax consultation services backed by over 20 years of experience."
+  },
+  "Nav": {
+    "services": "Services",
+    "consultants": "Consultants",
+    "clients": "Clients",
+    "contact": "Contact",
+    "cta": "Get in Touch"
+  },
+  "Hero": {
+    "badge": "Indonesian Brevet C Tax Consultant",
+    "headingLine": "Your Tax Matters,",
+    "headingAccent": "Handled Right.",
+    "sub": "BTC Tax Consultant (PT Bintang Konsultama Prima) assists individuals and businesses in fulfilling all tax obligations in Indonesia",
+    "ctaPrimary": "Get a Consultation",
+    "ctaSecondary": "View Services",
+    "stats": {
+      "experience": "Years experience",
+      "certification": "Tax consultant certification",
+      "association": "Association member",
+      "consultants": "Expert consultants"
+    }
+  },
+  "Services": {
+    "label": "Our Services",
+    "title": "End-to-End Tax Solutions",
+    "sub": "Comprehensive tax administration and legal representation for individuals and businesses.",
+    "items": {
+      "01": "Tax Administration",
+      "02": "Periodic and Annual Tax Returns",
+      "03": "Tax Audit and Objection Assistance",
+      "04": "Legal Representation at Tax Court",
+      "05": "Financial Statement Preparation"
+    }
+  },
+  "Consultants": {
+    "label": "Our Consultants",
+    "title": "Meet the Team",
+    "sub": "Licensed professionals with multi expertise in tax, law, accounting, business, management, and academia.",
+    "people": {
+      "bg": {
+        "role": "Co-Founder & Managing Partner",
+        "bio": "Certified Brevet C tax consultant licensed by the Director General of Taxes, Ministry of Finance. Lecturer at university. An active member of the Indonesian Tax Consultant Association (IKPI) and Institute of Indonesia Chartered Accountants (IAI)."
+      },
+      "ts": {
+        "role": "Co-Founder & Senior Partner",
+        "bio": "Certified Brevet C tax consultant licensed by the Director General of Taxes, Ministry of Finance. A registered advocate and legal consultant. Lecturer at university. An active member of the Indonesian Tax Consultant Association (IKPI) and the Indonesian Advocates Association (PERADI)."
+      }
+    }
+  },
+  "Clients": {
+    "label": "Our Clients",
+    "title": "Trusted Across Industries",
+    "desc": "We have assisted companies ranging from publicly listed entities to those across diverse sectors throughout Indonesia.",
+    "industries": {
+      "publiclyListed": "Publicly Listed Companies",
+      "energy": "Energy",
+      "infrastructure": "Infrastructure",
+      "manufacturing": "Manufacturing",
+      "propertyDevelopment": "Property Development",
+      "interior": "Interior",
+      "lifestyle": "Lifestyle"
+    }
+  },
+  "Contact": {
+    "label": "Contact",
+    "title": "Get in Touch",
+    "sub": "Reach out via phone, email, or visit our office (with prior appointment).",
+    "office": "Office",
+    "email": "Email",
+    "phone": "Phone",
+    "about": "BTC Tax Consultant (PT Bintang Konsultama Prima) is a tax consultancy owned and managed by Berelli Ginting and Timbang Siahaan, both certified Brevet C tax consultants. Kindly send us an email or WhatsApp message for consultation and further information."
+  },
+  "Footer": {
+    "rights": "All Rights Reserved"
+  },
+  "LanguageToggle": {
+    "id": "Bahasa Indonesia",
+    "en": "English"
+  }
+}
