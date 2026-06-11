@@ -220,11 +220,15 @@
 
 @media (max-width: 700px) {
   .section {
-    padding: 60px 1.25rem;
+    padding: 48px 1.25rem;
   }
 
   .cols {
     grid-template-columns: 1fr;
-    gap: 40px;
+    gap: 24px;
+  }
+
+  .item {
+    margin-bottom: 24px;
   }
 }
