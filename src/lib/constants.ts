@@ -38,7 +38,6 @@ export const CONSULTANTS = [
 ] as const;
 
 export const INDUSTRY_IDS = [
-  "publiclyListed",
   "energy",
   "infrastructure",
   "manufacturing",
