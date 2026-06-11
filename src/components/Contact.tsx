@@ -38,9 +38,7 @@ export default function Contact() {
             <div className={styles.item}>
               <div>
                 <div className={styles.itemLabel}>{t("phone")}</div>
-                <div className={styles.itemVal}>
-                  <a href={`https://wa.me/${SITE.whatsapp}`}>{SITE.phone}</a>
-                </div>
+                <div className={styles.itemVal}>{SITE.phone}</div>
               </div>
             </div>
           </div>
