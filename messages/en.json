@@ -16,7 +16,7 @@
     "badge": "Indonesian Brevet C Tax Consultant",
     "headingLine": "Your Tax Matters,",
     "headingAccent": "Handled Right.",
-    "sub": "BTC Tax Consultant (PT Bintang Konsultama Prima) assists individuals and businesses in fulfilling all tax obligations in Indonesia",
+    "sub": "BTC Tax Consultant (PT Bintang Konsultama Prima) assists individuals and businesses in fulfilling all tax obligations in Indonesia.",
     "ctaPrimary": "Get a Consultation",
     "ctaSecondary": "View Services",
     "stats": {
@@ -58,7 +58,6 @@
     "title": "Trusted Across Industries",
     "desc": "We have assisted companies ranging from publicly listed entities to those across diverse sectors throughout Indonesia.",
     "industries": {
-      "publiclyListed": "Publicly Listed Companies",
       "energy": "Energy",
       "infrastructure": "Infrastructure",
       "manufacturing": "Manufacturing",

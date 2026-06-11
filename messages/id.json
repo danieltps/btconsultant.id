@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "title": "BTC Tax Consultant — Konsultan Pajak Bersertifikat Brevet C | PT Bintang Konsultama Prima",
-    "description": "BTC Tax Consultant (PT Bintang Konsultama Prima) membantu individu dan badan usaha memenuhi seluruh kewajiban perpajakan, didukung pengalaman profesional lebih dari 20 tahun. Konsultan bersertifikat Brevet C berizin dari Direktorat Jenderal Pajak, Kementerian Keuangan.",
+    "description": "BTC Tax Consultant (PT Bintang Konsultama Prima) membantu individu dan badan usaha memenuhi kewajiban perpajakan di Indonesia. Konsultan bersertifikat Brevet C berizin dari Direktorat Jenderal Pajak, Kementerian Keuangan.",
     "ogTitle": "BTC Tax Consultant — Konsultan Pajak Bersertifikat Brevet C",
     "ogDescription": "Layanan konsultasi pajak profesional yang didukung pengalaman lebih dari 20 tahun."
   },
@@ -16,7 +16,7 @@
     "badge": "Konsultan Pajak Brevet C Indonesia",
     "headingLine": "Urusan Pajak Anda,",
     "headingAccent": "Ditangani dengan Tepat.",
-    "sub": "BTC Tax Consultant (PT Bintang Konsultama Prima) membantu individu dan badan usaha memenuhi seluruh kewajiban perpajakan di Indonesia",
+    "sub": "BTC Tax Consultant (PT Bintang Konsultama Prima) membantu individu dan badan usaha memenuhi kewajiban perpajakan di Indonesia.",
     "ctaPrimary": "Konsultasi Sekarang",
     "ctaSecondary": "Lihat Layanan",
     "stats": {
@@ -58,7 +58,6 @@
     "title": "Dipercaya di Berbagai Industri",
     "desc": "Kami telah membantu berbagai perusahaan, mulai dari entitas terbuka hingga perusahaan di berbagai sektor di seluruh Indonesia.",
     "industries": {
-      "publiclyListed": "Perusahaan Terbuka",
       "energy": "Energi",
       "infrastructure": "Infrastruktur",
       "manufacturing": "Manufaktur",
