@@ -45,4 +45,5 @@ export const INDUSTRY_IDS = [
   "interior",
   "lifestyle",
   "logistics",
+  "healthcare",
 ] as const;

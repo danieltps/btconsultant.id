@@ -64,7 +64,8 @@
       "property": "Property",
       "interior": "Interior",
       "lifestyle": "Lifestyle",
-      "logistics": "Logistics"
+      "logistics": "Logistics",
+      "healthcare": "Healthcare"
     }
   },
   "Contact": {
