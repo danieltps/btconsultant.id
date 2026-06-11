@@ -61,9 +61,10 @@
       "energy": "Energy",
       "infrastructure": "Infrastructure",
       "manufacturing": "Manufacturing",
-      "propertyDevelopment": "Property Development",
+      "property": "Property",
       "interior": "Interior",
-      "lifestyle": "Lifestyle"
+      "lifestyle": "Lifestyle",
+      "logistics": "Logistics"
     }
   },
   "Contact": {

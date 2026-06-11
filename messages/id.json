@@ -61,9 +61,10 @@
       "energy": "Energi",
       "infrastructure": "Infrastruktur",
       "manufacturing": "Manufaktur",
-      "propertyDevelopment": "Pengembangan Properti",
+      "property": "Properti",
       "interior": "Interior",
-      "lifestyle": "Gaya Hidup"
+      "lifestyle": "Gaya Hidup",
+      "logistics": "Logistik"
     }
   },
   "Contact": {
